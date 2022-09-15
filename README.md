@@ -2,7 +2,7 @@
 ### 1.需要下载的工具放在Window10以及MacOS文件夹中
 ### 2.操作指南以及注意事项在docx文档中
 
-||Win10|MacOS|
+|操作系统|Win10|MacOS|
 |:--:|:--:|:--:|
 |启动的程序|DM_64bit.exe|开发中|
 |需下载的JDK|Windows10/jdk-8u341-windows-x64.exe|MacOS/jdk-8u341-macosx-x64.dmg|
